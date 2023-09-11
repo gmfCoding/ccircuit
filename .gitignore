@@ -1,0 +1,7 @@
+circuit
+*.out
+*.o
+*.swp
+*.swo
+.build/
+*.a
